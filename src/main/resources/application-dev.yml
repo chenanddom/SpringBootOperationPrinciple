@@ -1,0 +1,21 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /
+user:
+  userName: zhangsan
+  userAge: 28
+
+logging:
+  file: ${spring.application.name}.log
+  level:
+    ROOT:
+    org.springframework: INFO
+    org.springframework.web.servlet.view: DEBUG
+    org.springframework.web.servlet.mvc: DEBUG
+    io.undertow.request: DEBUG
+    com.example.demo: DEBUG
+spring:
+  application:
+    name: demo
+
