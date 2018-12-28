@@ -300,3 +300,5 @@ HelloAutoConfiguration.java（自动配置类）
 ![](https://oscimg.oschina.net/oscnet/1559285ccc01807a67695ba2d84620237d2.jpg)
 
 项目地址:https://github.com/chenanddom/SpringBootOperationPrinciple
+
+oschina地址:https://my.oschina.net/u/3474937/blog/2992042
